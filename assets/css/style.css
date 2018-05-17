@@ -1,6 +1,5 @@
-/*---------------------*/
+
 /* Body and background */
-/*---------------------*/
 body {
     background: url(https://pre00.deviantart.net/a14b/th/pre/f/2012/241/9/9/my_little_pony_background_vector_by_death_of_all-d5cvubf.png);
   }
@@ -28,9 +27,9 @@ body {
     font-size: 150%;
   }
   
-  /*---------------------*/
-  /* Character rendering */
-  /*---------------------*/
+
+  /* Character */
+  
   .character {
     width: auto;
     margin: 0px 40px 0px 40px;
@@ -53,9 +52,8 @@ body {
     text-align: center;
   }
   
-  /*---------------------*/
-  /*      Fighting       */
-  /*---------------------*/
+  /*      Hugging      */
+
   .attack {
     text-align: center;
   }
@@ -80,6 +78,7 @@ body {
     background-color: purple;
     float: left;
   }
+
   #attacker {
       padding: 5px;
   }
@@ -88,9 +87,8 @@ body {
     color: white;
   }
   
-  /*---------------------*/
   /* Available Oponents  */
-  /*---------------------*/
+
   #available-to-attack-section {
     float: right;
   }
@@ -98,9 +96,7 @@ body {
       height: auto;
   }
   
-  /*---------------------*/
   /*      Defender       */
-  /*---------------------*/
   
   #defender-name {
     text-align: center;

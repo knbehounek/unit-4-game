@@ -141,7 +141,7 @@ $(document).ready(function() {
         //render defeated enemy
         if (areaRender == 'enemyDefeated') {
           $('#defender').empty();
-          var gameStateMessage = "You have defated " + charObj.name + ", you can choose to fight another enemy.";
+          var gameStateMessage = "You have befriended " + charObj.name + ", you can choose to friend another pony.";
           renderMessage(gameStateMessage);
           afterattack.play();
         }
