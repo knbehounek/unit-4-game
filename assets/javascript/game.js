@@ -15,28 +15,28 @@ $(document).ready(function() {
             name: 'Twlight',
             health: 120,
             attack: 8,
-            imageUrl: "assets/images/twlightsparkle.jpg",
+            imageUrl: "assets/images/twlight.png", 
             enemyAttackBack: 15
         }, 
         'Rarity': {
             name: 'Rarity',
             health: 100,
             attack: 14,
-            imageUrl: "assets/images/rarity.jpg",
+            imageUrl: "assets/images/rarity.png",
             enemyAttackBack: 5
         }, 
         'Fluttershy': {
             name: 'Fluttershy',
             health: 150,
             attack: 8,
-            imageUrl: "assets/images/fluttershy.jpg",
+            imageUrl: "assets/images/Fluttershy.png",
             enemyAttackBack: 20
         }, 
         'RainbowDash': {
             name: 'RainbowDash',
             health: 180,
             attack: 7,
-            imageUrl: "assets/images/rainbowdash.jpg",
+            imageUrl: "assets/images/RainbowDash.png",
             enemyAttackBack: 20
         }
     };

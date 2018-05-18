@@ -70,12 +70,8 @@ body {
   .enemy {
     width:auto;
     margin: 5px;
-    border-style: solid;
-    border-color: gray;
-    border-width: 1px;
     cursor: pointer;
     display: inline-block;
-    background-color: purple;
     float: left;
   }
 
@@ -83,7 +79,6 @@ body {
       padding: 5px;
   }
   .target-enemy {
-    background-color: orange;
     color: white;
   }
   
